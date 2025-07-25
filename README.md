@@ -1,4 +1,4 @@
-# 📱 Screen Time & App Usage Analysis (Pandas + Excel + Power BI)
+# 📱 screen-time-app-usage-analysis
 
 This project analyzes daily **screen time and app usage data** using **Pandas**, **Excel**, and presents interactive visual insights through a **Power BI dashboard**. It helps identify how users spend time on different apps, categories, and daily usage patterns.
 
