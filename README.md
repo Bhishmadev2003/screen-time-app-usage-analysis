@@ -22,19 +22,6 @@ This project analyzes daily **screen time and app usage data** using **Pandas**,
 
 ---
 
-## 📁 Project Structure
-
-```
-screen_time_and_app_usage/
-│
-├── screen_time_data.xlsx                # Raw or cleaned data
-├── screen_time_analysis.ipynb          # Python (Pandas) analysis
-├── screen_time_dashboard.pbix          # Power BI dashboard file
-└── README.md
-```
-
----
-
 ## 📊 Key Analyses
 
 - Total time spent per app and category  
