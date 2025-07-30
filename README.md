@@ -15,7 +15,7 @@ This project explores **daily screen time and app usage patterns** through struc
 
 ## 🧰 Tools & Technologies
 
-- **Python (Pandas)** – preprocessing, cleaning, and EDA  
+- **Python (Pandas)** – preprocessing, cleaning.
 - **Excel** – initial data formatting and checks  
 - **Power BI** – final interactive dashboard  
 - **Jupyter Notebook** – for running analysis code
